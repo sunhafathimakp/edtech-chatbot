@@ -1,0 +1,2742 @@
+{
+  "colleges": [
+    {
+      "name": "College of Engineering Trivandrum",
+      "category": "engineering",
+      "rating": 4.6,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "UST",
+          "Infosys",
+          "Wipro"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94332/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b951795/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b957532/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b968723/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b964356/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b966177/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Engineering College Thrissur",
+      "category": "engineering",
+      "rating": 4.7,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Bosch",
+          "Tata Projects",
+          "Infosys"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b93504/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b993820/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b977354/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b984376/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b984990/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b994238/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Engineering College Kozhikode",
+      "category": "engineering",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "UST",
+          "Wipro",
+          "L&T"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93954/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b965851/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b969189/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b971902/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b974213/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b961236/year"
+        }
+      ]
+    },
+    {
+      "name": "Model Engineering College Kochi",
+      "category": "engineering",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Cognizant",
+          "Tata Projects",
+          "Infosys"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94429/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b975461/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b978302/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b992495/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b990815/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b992451/year"
+        }
+      ]
+    },
+    {
+      "name": "Rajagiri School of Engineering Kochi",
+      "category": "engineering",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Wipro",
+          "Cognizant",
+          "TCS"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93206/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b951460/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b946223/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b956973/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b951864/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b948758/year"
+        }
+      ]
+    },
+    {
+      "name": "TKM College of Engineering Kollam",
+      "category": "engineering",
+      "rating": 3.9,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Infosys",
+          "TCS",
+          "Tata Projects"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94514/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b959332/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b960147/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b960695/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b959372/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b962104/year"
+        }
+      ]
+    },
+    {
+      "name": "Mar Athanasius College of Engineering Kothamangalam",
+      "category": "engineering",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Bosch",
+          "Wipro",
+          "L&T"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95907/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b970791/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b960395/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b972334/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b968933/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b976414/year"
+        }
+      ]
+    },
+    {
+      "name": "Federal Institute of Science and Technology Kochi",
+      "category": "engineering",
+      "rating": 3.9,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Bosch",
+          "Cognizant",
+          "Wipro"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94914/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b954689/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b947238/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b944470/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b940173/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b950418/year"
+        }
+      ]
+    },
+    {
+      "name": "LBS College of Engineering Kasaragod",
+      "category": "engineering",
+      "rating": 3.9,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "TCS",
+          "Bosch",
+          "Infosys"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95620/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b943622/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b944107/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b953836/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b945112/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b953619/year"
+        }
+      ]
+    },
+    {
+      "name": "SCMS School of Engineering Kochi",
+      "category": "engineering",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "TCS",
+          "Wipro",
+          "Cognizant"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94285/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b943568/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b956742/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b943028/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b959991/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b947288/year"
+        }
+      ]
+    },
+    {
+      "name": "Amal Jyothi College of Engineering Kanjirappally",
+      "category": "engineering",
+      "rating": 3.8,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Tata Projects",
+          "Wipro",
+          "TCS"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b93909/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b963291/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b956182/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b965691/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b960912/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b951380/year"
+        }
+      ]
+    },
+    {
+      "name": "Saintgits College of Engineering Kottayam",
+      "category": "engineering",
+      "rating": 4.6,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Infosys",
+          "Bosch",
+          "Cognizant"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b95994/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b951473/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b948214/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b961766/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b956173/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b947886/year"
+        }
+      ]
+    },
+    {
+      "name": "Vidya Academy of Science and Technology Thrissur",
+      "category": "engineering",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Tata Projects",
+          "Cognizant",
+          "L&T"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93444/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b971571/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b988386/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b972516/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b975581/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b978602/year"
+        }
+      ]
+    },
+    {
+      "name": "Ilahia College of Engineering Muvattupuzha",
+      "category": "engineering",
+      "rating": 4.3,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "L&T",
+          "Tata Projects",
+          "TCS"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95473/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b968212/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b962507/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b971062/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b971242/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b964823/year"
+        }
+      ]
+    },
+    {
+      "name": "MES College of Engineering Kuttippuram",
+      "category": "engineering",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "TCS",
+          "Wipro",
+          "Infosys"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94839/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b948377/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b953749/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b949072/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b946257/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b941748/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Engineering College Kannur",
+      "category": "engineering",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Infosys",
+          "Wipro",
+          "TCS"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94213/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b975682/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b987399/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b981490/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b991234/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b978547/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Engineering College Idukki",
+      "category": "engineering",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "UST",
+          "Tata Projects",
+          "Wipro"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b93821/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b952997/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b967909/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b964873/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b968151/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b966384/year"
+        }
+      ]
+    },
+    {
+      "name": "College of Engineering Adoor",
+      "category": "engineering",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Bosch",
+          "Tata Projects",
+          "Infosys"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94372/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b982589/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b982098/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b997169/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b997286/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b983411/year"
+        }
+      ]
+    },
+    {
+      "name": "University College of Engineering Kariavattom",
+      "category": "engineering",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Cognizant",
+          "TCS",
+          "UST"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94112/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b988960/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b994229/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b983540/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b995340/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b991355/year"
+        }
+      ]
+    },
+    {
+      "name": "Government College of Engineering Barton Hill",
+      "category": "engineering",
+      "rating": 4.6,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Wipro",
+          "TCS",
+          "Cognizant"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93220/month"
+      },
+      "courses": [
+        {
+          "name": "B.Tech Computer Science",
+          "fees": "\u20b960406/year"
+        },
+        {
+          "name": "B.Tech Mechanical",
+          "fees": "\u20b972298/year"
+        },
+        {
+          "name": "B.Tech Civil",
+          "fees": "\u20b974704/year"
+        },
+        {
+          "name": "B.Tech Electrical",
+          "fees": "\u20b966633/year"
+        },
+        {
+          "name": "B.Tech Electronics",
+          "fees": "\u20b963099/year"
+        }
+      ]
+    },
+    {
+      "name": "St Teresa\u2019s College Kochi",
+      "category": "arts",
+      "rating": 3.9,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "EY",
+          "Cognizant",
+          "Wipro"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94905/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b924674/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b923768/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b934994/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b921649/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b923839/year"
+        }
+      ]
+    },
+    {
+      "name": "Sacred Heart College Thevara",
+      "category": "arts",
+      "rating": 4.6,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Cognizant",
+          "HDFC Bank",
+          "UST"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95411/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b939145/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b923003/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b929164/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b921384/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b923803/year"
+        }
+      ]
+    },
+    {
+      "name": "St Joseph\u2019s College Devagiri",
+      "category": "arts",
+      "rating": 4.5,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Infosys",
+          "Wipro",
+          "TCS"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94850/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b918021/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b916925/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b922579/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b921244/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b919457/year"
+        }
+      ]
+    },
+    {
+      "name": "Farook College Kozhikode",
+      "category": "arts",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Infosys",
+          "EY",
+          "HDFC Bank"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94858/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b938698/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b930623/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b936985/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b925138/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b931980/year"
+        }
+      ]
+    },
+    {
+      "name": "Zamorin\u2019s Guruvayurappan College Kozhikode",
+      "category": "arts",
+      "rating": 4.1,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "TCS",
+          "EY",
+          "HDFC Bank"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b95536/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b918553/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b929256/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b923939/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b931809/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b930722/year"
+        }
+      ]
+    },
+    {
+      "name": "Mar Ivanios College Trivandrum",
+      "category": "arts",
+      "rating": 4.6,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "EY",
+          "Deloitte",
+          "TCS"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93446/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b922995/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b931365/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b915897/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b913568/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b919688/year"
+        }
+      ]
+    },
+    {
+      "name": "Christ College Irinjalakuda",
+      "category": "arts",
+      "rating": 3.8,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "ICICI Bank",
+          "Deloitte",
+          "HDFC Bank"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95207/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b935854/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b940673/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b929112/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b940066/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b943899/year"
+        }
+      ]
+    },
+    {
+      "name": "Government College Thrissur",
+      "category": "arts",
+      "rating": 3.9,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Deloitte",
+          "HDFC Bank",
+          "Cognizant"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94370/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b927579/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b914007/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b912916/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b930342/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b916774/year"
+        }
+      ]
+    },
+    {
+      "name": "Brennen College Thalassery",
+      "category": "arts",
+      "rating": 4.3,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "EY",
+          "ICICI Bank",
+          "TCS"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95255/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b914267/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b914173/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b917747/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b921494/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b914314/year"
+        }
+      ]
+    },
+    {
+      "name": "Maharaja\u2019s College Kochi",
+      "category": "arts",
+      "rating": 4.6,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "TCS",
+          "Wipro",
+          "Cognizant"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b93150/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b939130/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b936643/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b928695/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b920029/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b927818/year"
+        }
+      ]
+    },
+    {
+      "name": "CMS College Kottayam",
+      "category": "arts",
+      "rating": 4.3,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Cognizant",
+          "Deloitte",
+          "TCS"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b95183/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b932456/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b941666/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b928993/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b930241/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b941160/year"
+        }
+      ]
+    },
+    {
+      "name": "St Thomas College Thrissur",
+      "category": "arts",
+      "rating": 4.5,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "ICICI Bank",
+          "TCS",
+          "Wipro"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93878/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b933970/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b936858/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b923663/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b925413/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b929479/year"
+        }
+      ]
+    },
+    {
+      "name": "SN College Kollam",
+      "category": "arts",
+      "rating": 4.3,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Wipro",
+          "Infosys",
+          "EY"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93306/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b936954/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b938162/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b938786/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b925817/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b924594/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Victoria College Palakkad",
+      "category": "arts",
+      "rating": 4.1,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Infosys",
+          "ICICI Bank",
+          "Wipro"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94951/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b924975/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b916974/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b923261/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b915795/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b922747/year"
+        }
+      ]
+    },
+    {
+      "name": "Pazhassi Raja College Pulpally",
+      "category": "arts",
+      "rating": 4.5,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "ICICI Bank",
+          "HDFC Bank",
+          "Cognizant"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94526/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b930438/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b942664/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b924981/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b930356/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b937245/year"
+        }
+      ]
+    },
+    {
+      "name": "Payyanur College Kannur",
+      "category": "arts",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "UST",
+          "TCS",
+          "Cognizant"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94198/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b933502/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b928760/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b924843/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b930798/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b924813/year"
+        }
+      ]
+    },
+    {
+      "name": "MMNSS College Kottiyam",
+      "category": "arts",
+      "rating": 3.9,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "EY",
+          "Infosys",
+          "ICICI Bank"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b93177/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b932519/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b937898/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b940263/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b931108/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b939441/year"
+        }
+      ]
+    },
+    {
+      "name": "St Albert\u2019s College Kochi",
+      "category": "arts",
+      "rating": 4.1,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Wipro",
+          "TCS",
+          "EY"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94191/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b931308/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b940049/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b925790/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b930799/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b935937/year"
+        }
+      ]
+    },
+    {
+      "name": "NSS College Ottapalam",
+      "category": "arts",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Infosys",
+          "UST",
+          "Deloitte"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95189/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b922123/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b924663/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b939009/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b936526/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b933412/year"
+        }
+      ]
+    },
+    {
+      "name": "SD College Alappuzha",
+      "category": "arts",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "TCS",
+          "Infosys",
+          "EY"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94653/month"
+      },
+      "courses": [
+        {
+          "name": "BCA",
+          "fees": "\u20b931483/year"
+        },
+        {
+          "name": "BSc Computer Science",
+          "fees": "\u20b933271/year"
+        },
+        {
+          "name": "BCom",
+          "fees": "\u20b940068/year"
+        },
+        {
+          "name": "BBA",
+          "fees": "\u20b930675/year"
+        },
+        {
+          "name": "BA English",
+          "fees": "\u20b937002/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College Thiruvananthapuram",
+      "category": "medical",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Apollo",
+          "Lakeshore Hospital",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94150/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9388481/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9385433/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9378423/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9381858/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9376975/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College Kozhikode",
+      "category": "medical",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Lakeshore Hospital",
+          "Aster",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95516/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9349598/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9356475/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9349206/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9361733/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9357886/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College Kottayam",
+      "category": "medical",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Sunrise Hospital",
+          "Aster",
+          "Lakeshore Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94374/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9417906/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9417956/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9416780/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9412229/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9420053/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College Thrissur",
+      "category": "medical",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Apollo",
+          "Aster",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94378/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9407575/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9406108/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9398693/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9415698/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9400316/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College Kannur",
+      "category": "medical",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Apollo",
+          "Aster",
+          "Lakeshore Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93348/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9281823/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9274641/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9274641/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9280564/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9277242/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College Ernakulam",
+      "category": "medical",
+      "rating": 3.8,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Apollo",
+          "Lakeshore Hospital",
+          "Aster"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93355/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9421870/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9433223/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9418629/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9427611/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9419771/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College Manjeri",
+      "category": "medical",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Apollo",
+          "Lakeshore Hospital",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b95606/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9469061/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9469861/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9474321/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9482294/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9470550/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College Kollam",
+      "category": "medical",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Lakeshore Hospital",
+          "Aster",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93599/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9499293/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9495754/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9492559/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9502184/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9499511/year"
+        }
+      ]
+    },
+    {
+      "name": "Amrita Institute of Medical Sciences Kochi",
+      "category": "medical",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Apollo",
+          "Aster",
+          "Lakeshore Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93603/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9402625/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9416126/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9414923/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9413558/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9407726/year"
+        }
+      ]
+    },
+    {
+      "name": "Aster Medcity Kochi",
+      "category": "medical",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Aster",
+          "Lakeshore Hospital",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93590/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9448150/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9450787/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9437628/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9435384/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9435236/year"
+        }
+      ]
+    },
+    {
+      "name": "Jubilee Mission Medical College Thrissur",
+      "category": "medical",
+      "rating": 4.5,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Lakeshore Hospital",
+          "Sunrise Hospital",
+          "Aster"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94434/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9192167/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9199161/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9192714/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9183975/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9195252/year"
+        }
+      ]
+    },
+    {
+      "name": "Pushpagiri Medical College Thiruvalla",
+      "category": "medical",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Apollo",
+          "Lakeshore Hospital",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b93515/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9370889/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9364107/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9358675/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9374979/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9374063/year"
+        }
+      ]
+    },
+    {
+      "name": "KMCT Medical College Kozhikode",
+      "category": "medical",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Lakeshore Hospital",
+          "Apollo",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b93941/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9359691/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9370601/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9376523/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9362318/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9359433/year"
+        }
+      ]
+    },
+    {
+      "name": "Malabar Medical College Kozhikode",
+      "category": "medical",
+      "rating": 4.5,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Lakeshore Hospital",
+          "Apollo",
+          "Aster"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94458/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9404962/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9400094/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9403668/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9404932/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9400758/year"
+        }
+      ]
+    },
+    {
+      "name": "Sree Gokulam Medical College Trivandrum",
+      "category": "medical",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Aster",
+          "Lakeshore Hospital",
+          "Apollo"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93327/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9198474/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9211452/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9211959/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9206823/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9207475/year"
+        }
+      ]
+    },
+    {
+      "name": "Believers Church Medical College Thiruvalla",
+      "category": "medical",
+      "rating": 3.8,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Aster",
+          "Apollo",
+          "Sunrise Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93715/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9315175/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9330542/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9320867/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9332324/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9324493/year"
+        }
+      ]
+    },
+    {
+      "name": "Dr Somervell Memorial CSI Medical College Karakonam",
+      "category": "medical",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Sunrise Hospital",
+          "Lakeshore Hospital",
+          "Apollo"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b94266/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9493349/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9491554/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9497784/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9493180/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9495474/year"
+        }
+      ]
+    },
+    {
+      "name": "Travancore Medical College Kollam",
+      "category": "medical",
+      "rating": 3.9,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Apollo",
+          "Aster",
+          "Lakeshore Hospital"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94363/month"
+      },
+      "courses": [
+        {
+          "name": "MBBS",
+          "fees": "\u20b9194409/year"
+        },
+        {
+          "name": "BSc Nursing",
+          "fees": "\u20b9194325/year"
+        },
+        {
+          "name": "B.Pharm",
+          "fees": "\u20b9186806/year"
+        },
+        {
+          "name": "BPT",
+          "fees": "\u20b9190888/year"
+        },
+        {
+          "name": "BSc MLT",
+          "fees": "\u20b9187684/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Dental College Thiruvananthapuram",
+      "category": "dental",
+      "rating": 4.2,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Dental Clinics",
+          "Private Dental Hospitals"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94403/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9197781/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9204089/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9201222/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9207448/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9199507/year"
+        }
+      ]
+    },
+    {
+      "name": "Government Dental College Kozhikode",
+      "category": "dental",
+      "rating": 4.5,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Private Dental Hospitals",
+          "Dental Clinics"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b95733/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9163599/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9152333/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9152872/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9154155/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9159886/year"
+        }
+      ]
+    },
+    {
+      "name": "Amrita School of Dentistry Kochi",
+      "category": "dental",
+      "rating": 4.1,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Dental Clinics",
+          "Private Dental Hospitals"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94034/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9304672/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9304786/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9319903/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9313148/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9318660/year"
+        }
+      ]
+    },
+    {
+      "name": "Pushpagiri College of Dental Sciences",
+      "category": "dental",
+      "rating": 4.4,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Dental Clinics",
+          "Private Dental Hospitals"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95750/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9268121/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9263544/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9258026/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9266883/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9260558/year"
+        }
+      ]
+    },
+    {
+      "name": "KMCT Dental College Kozhikode",
+      "category": "dental",
+      "rating": 3.8,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Private Dental Hospitals",
+          "Dental Clinics"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95479/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9346887/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9360657/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9356517/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9354488/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9351167/year"
+        }
+      ]
+    },
+    {
+      "name": "Royal Dental College Chalissery",
+      "category": "dental",
+      "rating": 4.0,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Private Dental Hospitals",
+          "Dental Clinics"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b93284/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9388845/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9380853/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9378125/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9394681/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9392638/year"
+        }
+      ]
+    },
+    {
+      "name": "Annoor Dental College Muvattupuzha",
+      "category": "dental",
+      "rating": 4.6,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Private Dental Hospitals",
+          "Dental Clinics"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b93628/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9325606/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9325953/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9331705/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9333468/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9329881/year"
+        }
+      ]
+    },
+    {
+      "name": "Indira Gandhi Institute of Dental Sciences Nellikuzhi",
+      "category": "dental",
+      "rating": 4.1,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Private Dental Hospitals",
+          "Dental Clinics"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94690/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9163352/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9159946/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9171462/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9175251/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9158104/year"
+        }
+      ]
+    },
+    {
+      "name": "Educare Institute of Dental Sciences Malappuram",
+      "category": "dental",
+      "rating": 4.3,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Dental Clinics",
+          "Private Dental Hospitals"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Available",
+        "nearby_hostel": "\u20b95398/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9322554/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9326191/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9323398/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9316870/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9327881/year"
+        }
+      ]
+    },
+    {
+      "name": "Malabar Dental College Edappal",
+      "category": "dental",
+      "rating": 4.3,
+      "placement_support": {
+        "available": true,
+        "companies": [
+          "Private Dental Hospitals",
+          "Dental Clinics"
+        ],
+        "training": "Aptitude + Technical + Interview prep"
+      },
+      "hostel": {
+        "college_hostel": "Not Available",
+        "nearby_hostel": "\u20b94971/month"
+      },
+      "courses": [
+        {
+          "name": "BDS",
+          "fees": "\u20b9352222/year"
+        },
+        {
+          "name": "MDS",
+          "fees": "\u20b9342590/year"
+        },
+        {
+          "name": "Dental Hygiene",
+          "fees": "\u20b9340816/year"
+        },
+        {
+          "name": "Dental Technology",
+          "fees": "\u20b9355316/year"
+        },
+        {
+          "name": "Oral Pathology",
+          "fees": "\u20b9352121/year"
+        }
+      ]
+    }
+  ],
+  "short_term_courses": [
+    {
+      "name": "Python Programming",
+      "category": "IT",
+      "duration": "3 months",
+      "fees": "\u20b95000",
+      "placement_companies": [
+        "TCS",
+        "Infosys",
+        "Wipro",
+        "UST"
+      ],
+      "hostel": "Available near institute (\u20b93000/month)"
+    },
+    {
+      "name": "Full Stack Development",
+      "category": "IT",
+      "duration": "6 months",
+      "fees": "\u20b918000",
+      "placement_companies": [
+        "Zoho",
+        "Freshworks",
+        "Infosys",
+        "TCS"
+      ],
+      "hostel": "Available (\u20b94000/month)"
+    }
+  ]
+}
